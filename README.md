@@ -2,6 +2,8 @@
 ---
 ## Instructions to run on Windows
 ---
+### Project Undertaken by:
+##### Karandeep Singh (19BCB0055) Kashyap Bastola (19BCE2529) Ayushma Joshi (19BCB0143)
 ```
   - Install cygwin
   - make sure you install Package: make which is in categories: Devel
