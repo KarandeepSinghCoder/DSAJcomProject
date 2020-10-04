@@ -13,6 +13,5 @@
 ```
 ##### Below are the Useful Links:
 ---
-[Install cygwin ](https://cygwin.com/)  
-[make](https://cygwin.com/packages/summary/make-src.html)
----
+[cygwin ](https://cygwin.com/)  [make](https://cygwin.com/packages/summary/make-src.html)
+
