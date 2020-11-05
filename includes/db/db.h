@@ -9,7 +9,7 @@ using namespace std;
 //structure to store prisoner data
 struct convict_data
 {
-    string name, BloodGroup, crime, medical, dob, adrs, sex, duration, age;
+    string str, name, BloodGroup, crime, medical, dob, adrs, sex, duration, age, hist, Ability, breakp;
 };
 
 class db
@@ -17,7 +17,7 @@ class db
 private:
 public:
     vector<convict_data> data; //vector to store structures
-
+    static int  getPK();
     static void AddPrisonerData();
     static void DeletePrisonerData();
     static void DisplayPrisonerData();
