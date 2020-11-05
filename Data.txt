@@ -1,2 +1,5 @@
 | Number   |        Name        |  Blood Group  |        Crime        |     Medical History     |       DOB       |               Address               |   Gender   |  Duration  |    Age    |    Crime History   |   Special Ablities    |   Attempts fo breaking prison |
 
+|1         |Karandeep Singh     |B+             |murder               |sugar                    |25/11/1999       |rourkela                             |M           |12years     |21         |none                |knows how to cook      |1                              |
+|2         |Abhineet            |+B             |kidnaping            |HIV +ve                  |7/5/2000         |Ranchi                               |M           |5Years      |19         |attempt to murder   |dancer                 |2                              |
+|3         |Piyush              |+B             |kidnaping            |sugar                    |21/6/1999        |Raipur                               |M           |6Years      |19         |attempt to murder   |dancer                 |3                              |

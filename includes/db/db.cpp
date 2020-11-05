@@ -122,6 +122,7 @@ void db::DeletePrisonerData()
    fstream newfile;
    offile.open("Data.txt", ios::out | ios::in);
    newfile.open("temp.txt", ios::out | ios::app);
+   str="|"+str+" ";
    while (getline(offile, line))
    {
       size_t found = line.find(str);
